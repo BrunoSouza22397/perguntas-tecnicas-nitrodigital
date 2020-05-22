@@ -1,0 +1,17 @@
+{
+    "name": "lifdr/pergunta_7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BrunoSouza22397",
+            "email": "brunosouza22397@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classe\\": "classes"
+        }
+    }
+}
